@@ -2,7 +2,7 @@ image Rika icon1 = "Rika_Transparent.png"
 image Santa icon1 = "Jultomten_Transparent.jpg"
 image Tree = "Tree.png"
 
-define r = Character("Rika", color="#c8ffc8")
+define r = Character("Rika", color="#00F9E5")
 
 define s = Character("Santa", color="#deea00")
 
