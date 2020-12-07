@@ -1,12 +1,23 @@
 image Rika icon1 = "Rika_Transparent.png"
+image Santa icon1 = "Jultomten.jpg"
 image Tree = "Tree.png"
 
-define e = Character("Rika", color="#c8ffc8")
+define r = Character("Rika", color="#c8ffc8")
+
+define s = Character("Santa", color="#deea00")
+
 
 label start:
 
-scene Tree
+    scene Tree
 
-show Rika icon1
+    show Rika icon1
 
-return
+    show Santa icon1
+
+
+    r "REEEEEE"
+
+    s "Have you been naughty or nice?"
+
+    return
