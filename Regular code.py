@@ -119,7 +119,7 @@ label start:
                 s "Yes VERY"
 
                 scene dead with fade
-                ".:. Bad Ending(2/3)"
+                ".:. Bad Ending(2/6)"
                 return
 
             label nope:
@@ -343,7 +343,7 @@ label start:
                             r "Not in my home"
                             s "Well, you still could have been nicer about it"
                             scene dead with fade
-                            ".:. Bad ending (5/5)"
+                            ".:. Bad ending (5/6)"
                             return
 
                     label alone:
@@ -399,7 +399,7 @@ label start:
                         s ".......No"
 
                         scene dead with fade
-                        ".:. Bad ending(3/5)"
+                        ".:. Bad ending(3/6)"
                         return
 
                 label cave:
@@ -665,7 +665,7 @@ label start:
                                     r "Not in my home and with my father hom there is even less than before"
                                     s "Well, you still could have been nicer about it"
                                     scene dead with fade
-                                    ".:. Bad ending (5/5)"
+                                    ".:. Bad ending (5/6)"
                                     return
 
                             label alone2:
@@ -718,7 +718,7 @@ label start:
                                 s ".......No"
 
                                 scene dead with fade
-                                ".:. Bad ending(3/5)"
+                                ".:. Bad ending(3/6)"
                                 return
                     label tried:
                         scene black
@@ -746,5 +746,5 @@ label start:
             with dissolve
             s "You will die now little girl."
             scene dead with fade
-            ".:. Bad ending(1/5)"
+            ".:. Bad ending(1/6)"
             return
