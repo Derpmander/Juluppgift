@@ -626,7 +626,7 @@ label start:
                                     scene black with fade
 
                                     "With the hag gone the family could finally enjoy life"
-                                    show 1 icon1 at center
+                                    show 1 icon1 at right
                                     with dissolve
                                     a "But will that enjoyment last"
                                     a "Only I truly know"
