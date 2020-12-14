@@ -68,7 +68,7 @@ label start:
         show nar icon1 at left
         with dissolve
         n "It seems our hero is being a little brat."
-        n "I am going to have to break the 4th wall in for a second."
+        n "I am going to have to break the 4th wall for a second."
         n "RIKA, LISTEN YOU LITTLE BRAT!"
         n "YOU WILL NEVER GET PRESENTS LIKE THIS!!!"
         r "MOM!!, I hear voices in my head again."

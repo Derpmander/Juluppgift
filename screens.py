@@ -32,3 +32,7 @@ screen patch_notes():
         text _("{b}Patch 1.1b:{/b} Changed the main menu and pause screen background and added nice textboxes, the narrator and dialogue.")
 
         text _("{b}Patch 1.1a:{/b} Added Rika, Santa, two backgrounds and test dialogue ")
+
+background Image("gui/Text_box.png", xalign=0.45, yalign=1.0)
+
+background Frame("gui/Name_box.png", gui.namebox_borders, tile=gui.namebox_tile, xalign=gui.name_xalign)
